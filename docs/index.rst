@@ -4,38 +4,18 @@ Welcome to City of Austin's Open Data Plans!
 
 .. warning::
 
-   This site is under construction as part of a sprint project running from Aug to Nov 2016. The project scope and charter can be found `here <http://open-data-sprints.readthedocs.io/en/latest/project-plans-and-inventory.html>`_.
+   This site is under construction :-)
 
 
-This site provides a central location for open data planning documents at the City of Austin. Open Data Plans help folks learn about our departments and discover data that interests them. Each department is responsible for maintaining an Open Data Plan which describes the following: 
+This site provides a central location for open data planning documents at the City of Austin. Open Data Plans help folks learn about our departments and discover data that interests them. 
 
-- x
-- y
-- z
+.. Each department is responsible for maintaining an Open Data Plan which describes the following: 
 
+
+..    To find a specific Office or Division, use the search bar. This site follows the organization style of the City Budget -- therefore, some Offices will be grouped under Departments.
 
 
 For more information about Austin's Open Data Initiative, please visit our `Open Data Manual <http://www.opendata.rocks>`_.
-
-How this documentation is organized:
-======================================
-
-The navigation menu lists each department by name and service group as they appear in the most recently approved City Budget. Click on a department name to view its most recent Open Data Plan.
-
-.. tip::
-
-   To find a specific Office or Division, use the search bar. When it comes to the City Budget, some Offices are grouped under Departments.
-
-
-Some cool things you can do:
-======================================
-
-- Search all plans by using the search bar
-- Generate a PDF to read the plans the old-fashioned way
-- Read the plans page-by-page by scrolling down and clicking 'Next'
-
-View this project on GitHub: https://github.com/cityofaustin/open-data-plans
-
 
 .. toctree::
    :hidden:

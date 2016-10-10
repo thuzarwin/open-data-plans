@@ -13,16 +13,10 @@ To keep the plans updated and accessible, we do the following:
 
 ## current projects
 
-From Aug-Nov 2016, this repo will be the focus of an Open Data Initiative sprint project. The project scope and charter can be found [here](http://open-data-sprints.readthedocs.io/en/latest/project-plans-and-inventory.html).
+Work on the Open Data Plans themselves will be tabled for now while the team focuses on a related project... the KPI Data Assessment. An important goal of the assessment is to generate content that will become the foundation for the plans. 
 
-### To view team meetings and minutes, click [here](https://github.com/cityofaustin/open-data-plans/issues?utf8=%E2%9C%93&q=label%3Ameetings%20).
-
-Upcoming project milestones include: 
-- [Design an Open Data Plan template](https://github.com/cityofaustin/open-data-plans/milestone/2)
-- [Design a template for the KPI Data Assessment](https://github.com/cityofaustin/open-data-plans/milestone/3)
-- [Build a data file for populating open data plans](https://github.com/cityofaustin/open-data-plans/milestone/1)
-
-To view the draft version of the Open Data Plans site, click [here](http://open-data-plans.rtfd.org).
+Relevent project activity can still be found [here](https://github.com/cityofaustin/open-data-plans/issues). 
+Code for the site that powers the KPI project surveys can be found [here](https://github.com/cityofaustin/kpi-data-dashboard).
 
 ## how to edit a plan
 

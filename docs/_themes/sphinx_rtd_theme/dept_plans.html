@@ -1,0 +1,41 @@
+{#
+    basic/dept_plans.html
+    ~~~~~~~~~~~~~~~~~
+
+    Template for the department plans page.
+
+    Inspired by work done by the Sphinx team, see AUTHORS.
+    :license: BSD, see LICENSE for details.
+#}
+{%- extends "layout.html" %}
+<!-- {% set title = _('Search') %} -->
+<!-- {% set script_files = script_files + ['_static/searchtools.js'] %} -->
+<!-- {% block footer %}
+  <script type="text/javascript">
+    jQuery(function() { Search.loadIndex("{{ pathto('searchindex.js', 1) }}"); });
+  </script>
+  {# this is used when loading the search index using $.ajax fails,
+     such as on Chrome for documents on localhost #}
+  <script type="text/javascript" id="searchindexloader"></script>
+  {{ super() }}
+{% endblock %} -->
+{% block body %}
+
+  <h1>dept name goes here</h1>
+  <h6>Open Data Plan 2016</h6>
+  <h2>Mission</h2>
+    <p>text goes here</p>
+  <h2>Services</h2>
+    <p>text goes here</p>
+  <h2>How we use data</h2>
+    <p>text goes here</p>
+  <h2>Open Data Inventory</h2>
+    <p>brief description of how we are iterating toward inventory list goes here</p>
+    <h3>Fall 2016 Assessment</h3>
+    <p>brief desc of the assessment project goes here</p>
+    <p>assessment findings embedded here</p>
+  <h2>Our open data wish list</h2>
+  <h2>Contact us about open data</h2>
+    <p>contact embed will go here</p>
+
+{% endblock %}
