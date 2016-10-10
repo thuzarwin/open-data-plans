@@ -1,0 +1,4 @@
+mission_statements = {'Animal Services': 'The mission of the Austin Animal Services Office is to prevent animal homelessness and promote humane,\r compassionate treatment of animals by enforcing regulations, providing a safety net for lost or homeless\r animals, and achieving live outcomes for at least 90% of sheltered pets.\n',
+ 'Austin Code': 'data not yet added to airtable',
+ 'Austin Resource Recovery': "The mission of Austin Resource Recovery is to provide excellent customer services that promote waste reduction, increase resource recovery, and support the City's sustainability efforts so that zero waste goals may be achieved.",
+ 'Aviation': 'data not yet added to airtable'}
